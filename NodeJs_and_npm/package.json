@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_and_npm",
+  "version": "1.0.0",
+  "description": "This is 1st step towards backend",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sowhom Ghosh",
+  "license": "ISC"
+}
